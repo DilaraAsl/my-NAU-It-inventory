@@ -1,0 +1,5 @@
+/venv
+/bin
+.env
+.DS_Store
+*.pyc
